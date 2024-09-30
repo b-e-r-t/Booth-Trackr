@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from 'next/link'
 
 export default function Home() {
   run().catch(console.dir);
@@ -10,7 +11,9 @@ export default function Home() {
           <p className="py-6">
             Forget about your notes app and create a list of all the attending companies at your next job fair along with ready-made tools to make tracking easy.
           </p>
-          <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">Get Started</button>
+          <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">
+            <Link href="/EventSelection">Get Started</Link>
+          </button>
         </div>
       </div>
     </div>
