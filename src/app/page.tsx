@@ -18,16 +18,17 @@ export default function Home (){
             </div>
         </main>
         */
-       <main className = " py-96" >
-        <div className=" flow-root p-6 max-w-sm mx-auto bg-white rounded-xl shadow-md items-center space-x-4">
-          <div className='py-px'>
-            <img className="my-10 h-38 w-36 " src="/boothlogo.png" alt="ChitChat Logo"/>
-          </div>
-          <div className=" text-xl font-medium text-black">ChitChat</div>
-          <p className="text-gray-500">You have a new message!</p>
-          <button className="px-4 py-1 text-sm text-purple-600 font-semibold rounded-full border border-purple-200 hover:text-white hover:bg-purple-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">Message</button>
+      <main className='w-full h-screen flex flex-col items-center justify-center '>
+        <h1 className='text-gray-0 text-5xl py-8 font-mono' >BOOTHTRAKR</h1>
+        <div className=" grid grid-cols-3 gap-x-3 place-items-center p-8 bg-black rounded-xl shadow-md">
+            <img className=' animate-bounce w-32' src="/boothlogo.png" alt="ChitChat Logo"/>
+            <img className=' animate-bounce w-32' src="/boothlogo.png" alt="ChitChat Logo"/>
+            <img className=' animate-bounce w-32' src="/boothlogo.png" alt="ChitChat Logo"/>
         </div>
-      </main> 
+          <p className="text-gray-300 text-center pb-6">TRACK THEM ALL</p>
+          <button className="px-4 py-1 text-sm text-purple-600 font-semibold rounded-full border border-purple-200 hover:text-white hover:bg-purple-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">ENTER</button>
+      </main>
+      
         
     )
 
