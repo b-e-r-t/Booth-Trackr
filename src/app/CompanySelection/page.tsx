@@ -2,7 +2,7 @@
 import Link from "next/link";
 import Select from "react-select";
 
-const Hotels = [
+const Companies = [
   { value: 1, label: "Apple" },
   { value: 2, label: "Bank of America" },
   { value: 3, label: "Cisco" },
@@ -16,8 +16,11 @@ export default function EventSelection() {
           <h1>Select Companies to Track</h1>
         </div>
         <div className="px-2">
-          <Select name="CompanySelection" isMulti options={Hotels} />
+          <Select name="CompanySelection" isMulti options={Companies} />
         </div>
+        <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">
+          <Link href="/DetailSelection">Add Companies</Link>
+        </button>
       </div>
     </div>
   );
