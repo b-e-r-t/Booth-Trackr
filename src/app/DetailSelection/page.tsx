@@ -16,55 +16,6 @@ export default function DetailSelection({ }) {
     <div className="hero bg-content-400 min-h-screen">
       <div className="flex justify-center items-center flex-col gap-4">
         <h1>What would you like to track?</h1>
-        {/* <div className="flex justify-center items-center flex-row gap-4">
-          <button
-            onClick={handleClick}
-            style={{ backgroundColor: active ? "black" : "white" }}
-            className="btn btn-active btn-primary"
-          >
-            Term Hiring
-          </button>
-          <button
-            onClick={handleClick}
-            style={{ backgroundColor: active ? "black" : "white" }}
-            className="btn btn-active btn-primary"
-          >
-            Recuiter Name
-          </button>
-        </div>
-        <div className="flex justify-center items-center flex-row gap-4">
-          <button className="btn btn-active btn-primary">
-            Currently Hiring?
-          </button>
-          <button className="btn btn-active btn-primary">Booth Number</button>
-        </div>
-        <div className="flex justify-center items-center flex-row gap-4">
-          <button className="btn btn-active btn-primary">Website URL</button>
-          <button className="btn btn-active btn-primary">
-            Recruiter Contact Info
-          </button>
-          <button className="btn btn-active btn-primary">Date Visited</button>
-        </div>
-        <div className="flex justify-center items-center flex-row gap-4">
-          <button className="btn btn-active btn-primary">
-            Application Deadline
-          </button>
-          <button className="btn btn-active btn-primary">
-            Employment Location
-          </button>
-        </div>
-        <div className="flex justify-center items-center flex-row gap-4">
-          <button className="btn btn-active btn-primary">
-            Application Status
-          </button>
-          <button className="btn btn-active btn-primary">Custom Field</button>
-          <button className="btn btn-active btn-primary">Role</button>
-        </div>
-        <button className="btn btn-active btn-primary">Select All</button>
-
-        <button className="rounded bg-blue-500 px-4 py-2 text-white hover:bg-blue-700 active:bg-red-800">
-          Add Fields
-        </button> */}
         <div className="flex justify-center items-center flex-row gap-4">
           <ButtonToggle name={"Term Hiring"}/>
           <ButtonToggle name={"Recruiter Name"}></ButtonToggle>

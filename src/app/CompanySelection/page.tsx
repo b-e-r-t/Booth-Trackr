@@ -1,12 +1,18 @@
 "use client";
 import Link from "next/link";
-import Select from "react-select";
+import Select, { components, MultiValueGenericProps } from "react-select";
 
-const Companies = [
+const companies = [
   { value: 1, label: "Apple" },
   { value: 2, label: "Bank of America" },
   { value: 3, label: "Cisco" },
+  { value: 4, label: "Disney" },
+  { value: 5, label: "Enterprise" },
 ];
+
+const MultiValueLabel = (props: MultiValueGenericProps) => {
+  return <components.MultiValueLabel {...props} />;
+};
 
 export default function EventSelection() {
   return (
@@ -16,7 +22,17 @@ export default function EventSelection() {
           <h1>Select Companies to Track</h1>
         </div>
         <div className="px-2">
-          <Select name="CompanySelection" isMulti options={Companies} />
+          <Select
+            closeMenuOnSelect={false}
+            components={{ MultiValueLabel }}
+            styles={{
+              multiValue: (base) => ({
+                ...base,
+              }),
+            }}
+            isMulti
+            options={companies}
+          />
         </div>
         <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">
           <Link href="/DetailSelection">Add Companies</Link>
