@@ -34,7 +34,7 @@ importers:
         specifier: ^18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: ^18
+        specifier: ^18.3.0
         version: 18.3.0
       autoprefixer:
         specifier: ^10.0.1
