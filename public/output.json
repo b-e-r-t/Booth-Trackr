@@ -1,0 +1,1370 @@
+[
+    {
+        "booth": "1121",
+        "company": "3M"
+    },
+    {
+        "booth": "491",
+        "company": "ABB"
+    },
+    {
+        "booth": "521",
+        "company": "Abbott"
+    },
+    {
+        "booth": "1501",
+        "company": "Accenture"
+    },
+    {
+        "booth": "1279",
+        "company": "Activate Global"
+    },
+    {
+        "booth": "1585",
+        "company": "* Adobe"
+    },
+    {
+        "booth": "1157",
+        "company": "AECOM"
+    },
+    {
+        "booth": "1263",
+        "company": "AEOP Internships and Fellowships"
+    },
+    {
+        "booth": "567",
+        "company": "Aerospace Corporation, The"
+    },
+    {
+        "booth": "584",
+        "company": "AES"
+    },
+    {
+        "booth": "571",
+        "company": "AIAA"
+    },
+    {
+        "booth": "741",
+        "company": "Air Force Research Laboratory"
+    },
+    {
+        "booth": "721",
+        "company": "Air Products & Chemicals, Inc."
+    },
+    {
+        "booth": "867",
+        "company": "Amentum"
+    },
+    {
+        "booth": "973",
+        "company": "America's Navy"
+    },
+    {
+        "booth": "447",
+        "company": "American Express"
+    },
+    {
+        "booth": "715",
+        "company": "Amsted Industries"
+    },
+    {
+        "booth": "1260",
+        "company": "Amtrak"
+    },
+    {
+        "booth": "710",
+        "company": "Anduril Industries"
+    },
+    {
+        "booth": "1247",
+        "company": "Ansys, Inc."
+    },
+    {
+        "booth": "483",
+        "company": "AppFolio, Inc."
+    },
+    {
+        "booth": "431",
+        "company": "Apple Inc."
+    },
+    {
+        "booth": "1161",
+        "company": "Applied Research Lab. at Penn State"
+    },
+    {
+        "booth": "569",
+        "company": "Applied Research Lab. at the University of TX"
+    },
+    {
+        "booth": "966",
+        "company": "Aptiv"
+    },
+    {
+        "booth": "974",
+        "company": "Arcadis"
+    },
+    {
+        "booth": "1346",
+        "company": "Arconic Corporation"
+    },
+    {
+        "booth": "574",
+        "company": "Arete"
+    },
+    {
+        "booth": "699",
+        "company": "Arizona State University"
+    },
+    {
+        "booth": "941",
+        "company": "Army Civilian Careers"
+    },
+    {
+        "booth": "485",
+        "company": "Arup"
+    },
+    {
+        "booth": "733",
+        "company": "ASML"
+    },
+    {
+        "booth": "931",
+        "company": "Bank of America"
+    },
+    {
+        "booth": "1470",
+        "company": "Barnard Construction"
+    },
+    {
+        "booth": "1433",
+        "company": "BASF"
+    },
+    {
+        "booth": "1441",
+        "company": "Bechtel Corporation"
+    },
+    {
+        "booth": "270",
+        "company": "Bloomberg"
+    },
+    {
+        "booth": "1474",
+        "company": "Blue Origin LLC"
+    },
+    {
+        "booth": "1352",
+        "company": "BNY"
+    },
+    {
+        "booth": "1376",
+        "company": "Bonneville Power Administration"
+    },
+    {
+        "booth": "1475",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "booth": "533",
+        "company": "Boston Scientific"
+    },
+    {
+        "booth": "1553",
+        "company": "bp"
+    },
+    {
+        "booth": "1466",
+        "company": "Burns & McDonnell"
+    },
+    {
+        "booth": "1479",
+        "company": "BWX Technologies"
+    },
+    {
+        "booth": "1486",
+        "company": "C3 AI"
+    },
+    {
+        "booth": "709",
+        "company": "Cadence Design Systems"
+    },
+    {
+        "booth": "898",
+        "company": "Caltech Biology and Biological Engr."
+    },
+    {
+        "booth": "1262",
+        "company": "Caltrans"
+    },
+    {
+        "booth": "878",
+        "company": "Capital Group"
+    },
+    {
+        "booth": "761",
+        "company": "Capital One"
+    },
+    {
+        "booth": "461",
+        "company": "Cargill"
+    },
+    {
+        "booth": "1197",
+        "company": "Carnegie Mellon Univ."
+    },
+    {
+        "booth": "1370",
+        "company": "Casualty Actuarial Society"
+    },
+    {
+        "booth": "861",
+        "company": "Caterpillar Inc."
+    },
+    {
+        "booth": "955",
+        "company": "Central Intelligence Agency (CIA)"
+    },
+    {
+        "booth": "1492",
+        "company": "CF Industries Holdings, Inc."
+    },
+    {
+        "booth": "921",
+        "company": "Chevron"
+    },
+    {
+        "booth": "611",
+        "company": "Chewy"
+    },
+    {
+        "booth": "853",
+        "company": "Cisco Systems"
+    },
+    {
+        "booth": "1287",
+        "company": "Clemson University"
+    },
+    {
+        "booth": "847",
+        "company": "Clorox Company, The"
+    },
+    {
+        "booth": "1275",
+        "company": "CodePath.org"
+    },
+    {
+        "booth": "1392",
+        "company": "Colorado School of Mines"
+    },
+    {
+        "booth": "690",
+        "company": "Columbia Engineering"
+    },
+    {
+        "booth": "1410",
+        "company": "Constellation Energy"
+    },
+    {
+        "booth": "1361",
+        "company": "Cook Medical"
+    },
+    {
+        "booth": "883",
+        "company": "Cornell University"
+    },
+    {
+        "booth": "1379",
+        "company": "CSL Behring"
+    },
+    {
+        "booth": "1111",
+        "company": "Cummins Inc."
+    },
+    {
+        "booth": "482",
+        "company": "Daimler Truck North America"
+    },
+    {
+        "booth": "486",
+        "company": "Dairy Farmers of America"
+    },
+    {
+        "booth": "425",
+        "company": "Danaher Corporation"
+    },
+    {
+        "booth": "889",
+        "company": "Dartmouth Engr."
+    },
+    {
+        "booth": "387",
+        "company": "Dell Technologies"
+    },
+    {
+        "booth": "1341",
+        "company": "Delta Air Lines Inc."
+    },
+    {
+        "booth": "879",
+        "company": "Dev10"
+    },
+    {
+        "booth": "1499",
+        "company": "Diamondback Energy"
+    },
+    {
+        "booth": "970",
+        "company": "Digital Realty"
+    },
+    {
+        "booth": "371",
+        "company": "Discover"
+    },
+    {
+        "booth": "575",
+        "company": "DiversityComm"
+    },
+    {
+        "booth": "471",
+        "company": "DKMS"
+    },
+    {
+        "booth": "1375",
+        "company": "DKS Associates"
+    },
+    {
+        "booth": "1179",
+        "company": "DoD SMART Scholarship Program"
+    },
+    {
+        "booth": "487",
+        "company": "Dodge Industrial, Inc."
+    },
+    {
+        "booth": "1461",
+        "company": "Dominion Energy"
+    },
+    {
+        "booth": "583",
+        "company": "Dow, Inc."
+    },
+    {
+        "booth": "991",
+        "company": "DPR Construction"
+    },
+    {
+        "booth": "570",
+        "company": "Draper"
+    },
+    {
+        "booth": "796",
+        "company": "Duke University"
+    },
+    {
+        "booth": "555",
+        "company": "DuPont"
+    },
+    {
+        "booth": "1201",
+        "company": "Eaton Corporation"
+    },
+    {
+        "booth": "440",
+        "company": "Ecolab"
+    },
+    {
+        "booth": "755",
+        "company": "Edwards Lifesciences"
+    },
+    {
+        "booth": "727",
+        "company": "Eli Lilly and Company"
+    },
+    {
+        "booth": "682",
+        "company": "Embry Riddle Aeronautical University"
+    },
+    {
+        "booth": "481",
+        "company": "EPRI"
+    },
+    {
+        "booth": "746",
+        "company": "Exelon Corporation"
+    },
+    {
+        "booth": "1301",
+        "company": "Exxon Mobil Corporation"
+    },
+    {
+        "booth": "672",
+        "company": "Federal Aviation Administration"
+    },
+    {
+        "booth": "1167",
+        "company": "Federal Bureau of Investigation"
+    },
+    {
+        "booth": "377",
+        "company": "FirstEnergy"
+    },
+    {
+        "booth": "283",
+        "company": "Fish & Richardson P.C."
+    },
+    {
+        "booth": "1291",
+        "company": "Florida Int'l University - College of Engr"
+    },
+    {
+        "booth": "872",
+        "company": "FM Global"
+    },
+    {
+        "booth": "811",
+        "company": "Ford Motor Company"
+    },
+    {
+        "booth": "1257",
+        "company": "Freeport McMoRan, Inc."
+    },
+    {
+        "booth": "1407",
+        "company": "GE Aerospace"
+    },
+    {
+        "booth": "515",
+        "company": "GE HealthCare"
+    },
+    {
+        "booth": "1233",
+        "company": "GE Vernova"
+    },
+    {
+        "booth": "1457",
+        "company": "Geico"
+    },
+    {
+        "booth": "1413",
+        "company": "General Dynamics"
+    },
+    {
+        "booth": "541",
+        "company": "General Motors"
+    },
+    {
+        "booth": "1183",
+        "company": "Georgia Institute of Tech."
+    },
+    {
+        "booth": "1369",
+        "company": "Georgia Transmission Corp"
+    },
+    {
+        "booth": "779",
+        "company": "GHD Ltd."
+    },
+    {
+        "booth": "1256",
+        "company": "Gilbane Building Company"
+    },
+    {
+        "booth": "1357",
+        "company": "GlobalFoundries"
+    },
+    {
+        "booth": "950",
+        "company": "Goldman Sachs"
+    },
+    {
+        "booth": "267",
+        "company": "Google"
+    },
+    {
+        "booth": "285",
+        "company": "Grammarly"
+    },
+    {
+        "booth": "1141",
+        "company": "Granite Construction"
+    },
+    {
+        "booth": "897",
+        "company": "Harvard Business School"
+    },
+    {
+        "booth": "798",
+        "company": "Harvard School of Engr. & Applied Science"
+    },
+    {
+        "booth": "1196",
+        "company": "HDR Inc."
+    },
+    {
+        "booth": "455",
+        "company": "Henkel Corporation"
+    },
+    {
+        "booth": "1406",
+        "company": "Hensel Phelps"
+    },
+    {
+        "booth": "1323",
+        "company": "HII"
+    },
+    {
+        "booth": "361",
+        "company": "Honda"
+    },
+    {
+        "booth": "901",
+        "company": "Honeywell, Inc."
+    },
+    {
+        "booth": "1482",
+        "company": "Hormel Foods Corporation"
+    },
+    {
+        "booth": "547",
+        "company": "HP Inc."
+    },
+    {
+        "booth": "1521",
+        "company": "Hubbell Inc."
+    },
+    {
+        "booth": "928",
+        "company": "IBM Corporation"
+    },
+    {
+        "booth": "473",
+        "company": "Idaho National Laboratory"
+    },
+    {
+        "booth": "477",
+        "company": "Inclusive Engineering Consortium"
+    },
+    {
+        "booth": "749",
+        "company": "Ingersoll Rand"
+    },
+    {
+        "booth": "1396",
+        "company": "Iowa State University"
+    },
+    {
+        "booth": "967",
+        "company": "Jacobs"
+    },
+    {
+        "booth": "1175",
+        "company": "Jefferson Lab"
+    },
+    {
+        "booth": "1356",
+        "company": "Jensen Hughes"
+    },
+    {
+        "booth": "1497",
+        "company": "JLL"
+    },
+    {
+        "booth": "1213",
+        "company": "John Deere"
+    },
+    {
+        "booth": "1177",
+        "company": "Johns Hopkins Applied Physics Laboratory, The"
+    },
+    {
+        "booth": "799",
+        "company": "Johns Hopkins University - Engr. Mgmt."
+    },
+    {
+        "booth": "795",
+        "company": "Johns Hopkins Whiting School of Engr"
+    },
+    {
+        "booth": "1401",
+        "company": "Johnson & Johnson"
+    },
+    {
+        "booth": "274",
+        "company": "KBR"
+    },
+    {
+        "booth": "586",
+        "company": "Keysight Technologies"
+    },
+    {
+        "booth": "1493",
+        "company": "Kia America"
+    },
+    {
+        "booth": "1153",
+        "company": "Kiewit"
+    },
+    {
+        "booth": "1367",
+        "company": "Kimley-Horn"
+    },
+    {
+        "booth": "1587",
+        "company": "KLA"
+    },
+    {
+        "booth": "384",
+        "company": "Kruger Products / KTG (USA)"
+    },
+    {
+        "booth": "1513",
+        "company": "L'Oreal"
+    },
+    {
+        "booth": "661",
+        "company": "L3Harris Technologies"
+    },
+    {
+        "booth": "674",
+        "company": "LA County Sanitation District"
+    },
+    {
+        "booth": "561",
+        "company": "Lam Research"
+    },
+    {
+        "booth": "1360",
+        "company": "Lawrence Livermore National Laboratory"
+    },
+    {
+        "booth": "1289",
+        "company": "Lehigh University - P.C. Rossin College of Engr"
+    },
+    {
+        "booth": "767",
+        "company": "Leidos"
+    },
+    {
+        "booth": "701",
+        "company": "Lenovo"
+    },
+    {
+        "booth": "475",
+        "company": "Linux Foundation, The"
+    },
+    {
+        "booth": "911",
+        "company": "Lockheed Martin"
+    },
+    {
+        "booth": "479",
+        "company": "Los Alamos National Lab"
+    },
+    {
+        "booth": "1227",
+        "company": "Los Angeles Department of Water and Power"
+    },
+    {
+        "booth": "687",
+        "company": "Loyola Marymount University"
+    },
+    {
+        "booth": "986",
+        "company": "Lutron"
+    },
+    {
+        "booth": "582",
+        "company": "Marathon Petroleum"
+    },
+    {
+        "booth": "714",
+        "company": "Marvell"
+    },
+    {
+        "booth": "961",
+        "company": "Medtronic"
+    },
+    {
+        "booth": "666",
+        "company": "MEMPC"
+    },
+    {
+        "booth": "452",
+        "company": "Merck & Co."
+    },
+    {
+        "booth": "599",
+        "company": "MESA"
+    },
+    {
+        "booth": "1552",
+        "company": "Meta"
+    },
+    {
+        "booth": "1489",
+        "company": "Michigan Department of Transportation"
+    },
+    {
+        "booth": "1127",
+        "company": "Micron Technologies"
+    },
+    {
+        "booth": "261",
+        "company": "Microsoft"
+    },
+    {
+        "booth": "653",
+        "company": "Milwaukee Tool"
+    },
+    {
+        "booth": "1374",
+        "company": "Minnesota Dept. of Transportation"
+    },
+    {
+        "booth": "882",
+        "company": "Missouri University of Science & Tech."
+    },
+    {
+        "booth": "1297",
+        "company": "MIT Chemical Engineering"
+    },
+    {
+        "booth": "1295",
+        "company": "MIT LGO / MIT SDM"
+    },
+    {
+        "booth": "467",
+        "company": "MIT Lincoln Laboratory"
+    },
+    {
+        "booth": "1398",
+        "company": "MIT Office of Graduate Education"
+    },
+    {
+        "booth": "1399",
+        "company": "MIT School of Engineering"
+    },
+    {
+        "booth": "1271",
+        "company": "Mitre"
+    },
+    {
+        "booth": "946",
+        "company": "Molson Coors Beverage Company"
+    },
+    {
+        "booth": "984",
+        "company": "Morgan Stanley"
+    },
+    {
+        "booth": "841",
+        "company": "Mortenson"
+    },
+    {
+        "booth": "1147",
+        "company": "Motorola Solutions"
+    },
+    {
+        "booth": "566",
+        "company": "NASA"
+    },
+    {
+        "booth": "979",
+        "company": "NASCAR"
+    },
+    {
+        "booth": "676",
+        "company": "National Academies"
+    },
+    {
+        "booth": "1276",
+        "company": "National Energy Technology Lab. (NETL)"
+    },
+    {
+        "booth": "1267",
+        "company": "National Geospatial Intelligence Agency"
+    },
+    {
+        "booth": "1362",
+        "company": "National Renewable Energy Laboratory - NREL"
+    },
+    {
+        "booth": "1507",
+        "company": "National Security Agency (NSA)"
+    },
+    {
+        "booth": "581",
+        "company": "Naval Facilities Engineering Systems Command"
+    },
+    {
+        "booth": "1171",
+        "company": "Naval Nuclear Laboratory"
+    },
+    {
+        "booth": "678",
+        "company": "NAVSEA - Crane"
+    },
+    {
+        "booth": "1447",
+        "company": "Navy Civilian Careers"
+    },
+    {
+        "booth": "647",
+        "company": "Navy Federal Credit Union"
+    },
+    {
+        "booth": "1366",
+        "company": "NCWIT"
+    },
+    {
+        "booth": "786",
+        "company": "New Jersey Institute of Tech."
+    },
+    {
+        "booth": "1389",
+        "company": "New Mexico Tech"
+    },
+    {
+        "booth": "1274",
+        "company": "New York Independent Systems Operator"
+    },
+    {
+        "booth": "997",
+        "company": "Nintendo of America, Inc."
+    },
+    {
+        "booth": "1270",
+        "company": "NIST"
+    },
+    {
+        "booth": "1268",
+        "company": "NNSA Graduate: Fellowship Program"
+    },
+    {
+        "booth": "782",
+        "company": "Northeastern University"
+    },
+    {
+        "booth": "601",
+        "company": "Northrop Grumman Corporation"
+    },
+    {
+        "booth": "1292",
+        "company": "Northwestern Master of Science in Law"
+    },
+    {
+        "booth": "896",
+        "company": "Northwestern University"
+    },
+    {
+        "booth": "641",
+        "company": "Nucor"
+    },
+    {
+        "booth": "278",
+        "company": "NVIDIA"
+    },
+    {
+        "booth": "1434",
+        "company": "NXP Semiconductors"
+    },
+    {
+        "booth": "888",
+        "company": "NYU Center for Data Science"
+    },
+    {
+        "booth": "1199",
+        "company": "NYU Tandon School of Engr."
+    },
+    {
+        "booth": "680",
+        "company": "Oak Ridge Institute for Science & Education"
+    },
+    {
+        "booth": "1269",
+        "company": "Oak Ridge National Laboratory"
+    },
+    {
+        "booth": "590",
+        "company": "Oracle"
+    },
+    {
+        "booth": "797",
+        "company": "Oregon State University"
+    },
+    {
+        "booth": "577",
+        "company": "Out in STEM, Inc."
+    },
+    {
+        "booth": "752",
+        "company": "Pacific Gas and Electric"
+    },
+    {
+        "booth": "1261",
+        "company": "Pacific NW Na'l. Lab."
+    },
+    {
+        "booth": "1353",
+        "company": "PBF Energy"
+    },
+    {
+        "booth": "1285",
+        "company": "Penn State Univ., College of Engr."
+    },
+    {
+        "booth": "1207",
+        "company": "PepsiCo"
+    },
+    {
+        "booth": "446",
+        "company": "Pfizer, Inc."
+    },
+    {
+        "booth": "982",
+        "company": "PIMCO"
+    },
+    {
+        "booth": "773",
+        "company": "Polaris"
+    },
+    {
+        "booth": "1133",
+        "company": "Procter & Gamble"
+    },
+    {
+        "booth": "930",
+        "company": "PTC, Inc."
+    },
+    {
+        "booth": "1288",
+        "company": "Purdue Univ., College of Engr."
+    },
+    {
+        "booth": "1590",
+        "company": "Ramboll"
+    },
+    {
+        "booth": "1253",
+        "company": "Regeneron"
+    },
+    {
+        "booth": "1430",
+        "company": "Relativity Space"
+    },
+    {
+        "booth": "791",
+        "company": "Rensselaer Polytechnic Institute"
+    },
+    {
+        "booth": "1395",
+        "company": "Research in Germany"
+    },
+    {
+        "booth": "579",
+        "company": "Rewriting the Code"
+    },
+    {
+        "booth": "1386",
+        "company": "Rice University NEWT Center"
+    },
+    {
+        "booth": "697",
+        "company": "Rice University Office of Graduate and Postdoctora"
+    },
+    {
+        "booth": "615",
+        "company": "Rivian"
+    },
+    {
+        "booth": "527",
+        "company": "Rockwell Automation"
+    },
+    {
+        "booth": "1278",
+        "company": "RTI Int'l."
+    },
+    {
+        "booth": "1101",
+        "company": "RTX"
+    },
+    {
+        "booth": "1378",
+        "company": "San Francisco Public Utilities Commission"
+    },
+    {
+        "booth": "1368",
+        "company": "Sandia National Laboratories"
+    },
+    {
+        "booth": "875",
+        "company": "Sentry"
+    },
+    {
+        "booth": "833",
+        "company": "Skanska"
+    },
+    {
+        "booth": "1431",
+        "company": "Skyworks Solutions"
+    },
+    {
+        "booth": "469",
+        "company": "SLAC Nat'l. Accelerator Lab."
+    },
+    {
+        "booth": "1467",
+        "company": "Smurfit WestRock"
+    },
+    {
+        "booth": "441",
+        "company": "SoCalGas"
+    },
+    {
+        "booth": "573",
+        "company": "Society of Women Engineers"
+    },
+    {
+        "booth": "1266",
+        "company": "Somos"
+    },
+    {
+        "booth": "1421",
+        "company": "Southern Company"
+    },
+    {
+        "booth": "684",
+        "company": "Southern Methodist University"
+    },
+    {
+        "booth": "1190",
+        "company": "Southwire"
+    },
+    {
+        "booth": "1331",
+        "company": "SpaceX"
+    },
+    {
+        "booth": "386",
+        "company": "SRAM"
+    },
+    {
+        "booth": "683",
+        "company": "Stanford Engineering"
+    },
+    {
+        "booth": "1471",
+        "company": "Stantec"
+    },
+    {
+        "booth": "692",
+        "company": "Stevens Institute of Technology"
+    },
+    {
+        "booth": "829",
+        "company": "T. Rowe Price"
+    },
+    {
+        "booth": "1452",
+        "company": "TC Energy"
+    },
+    {
+        "booth": "851",
+        "company": "TechnipFMC"
+    },
+    {
+        "booth": "1163",
+        "company": "Tennessee Valley Authority"
+    },
+    {
+        "booth": "1371",
+        "company": "Tetra Tech"
+    },
+    {
+        "booth": "788",
+        "company": "Texas A&M"
+    },
+    {
+        "booth": "576",
+        "company": "Texas Dept. of Transportation"
+    },
+    {
+        "booth": "1241",
+        "company": "Texas Instruments"
+    },
+    {
+        "booth": "1588",
+        "company": "The Lane Construction Corp"
+    },
+    {
+        "booth": "668",
+        "company": "The National GEM Consortium"
+    },
+    {
+        "booth": "382",
+        "company": "The Trade Desk"
+    },
+    {
+        "booth": "1347",
+        "company": "Trane Technologies"
+    },
+    {
+        "booth": "934",
+        "company": "Trimble"
+    },
+    {
+        "booth": "890",
+        "company": "Tufts University"
+    },
+    {
+        "booth": "1427",
+        "company": "Turner Construction"
+    },
+    {
+        "booth": "871",
+        "company": "Two Sigma"
+    },
+    {
+        "booth": "983",
+        "company": "U.S. Department of State"
+    },
+    {
+        "booth": "670",
+        "company": "U.S. EPA"
+    },
+    {
+        "booth": "1296",
+        "company": "UC Berkeley"
+    },
+    {
+        "booth": "789",
+        "company": "UC Irvine, Samueli School of Engineering"
+    },
+    {
+        "booth": "1293",
+        "company": "UChicago Pritzker School of Molecular Engr"
+    },
+    {
+        "booth": "783",
+        "company": "UCLA CEED"
+    },
+    {
+        "booth": "785",
+        "company": "UCLA ENGR Online Master of Financial Engr."
+    },
+    {
+        "booth": "787",
+        "company": "ULCA Division of Graduate Education"
+    },
+    {
+        "booth": "695",
+        "company": "UNC Dept. of Computer Science"
+    },
+    {
+        "booth": "1393",
+        "company": "Univ. of Buffalo, SUNY"
+    },
+    {
+        "booth": "696",
+        "company": "Univ. of California Santa Cruz"
+    },
+    {
+        "booth": "686",
+        "company": "Univ. of California, Berkeley"
+    },
+    {
+        "booth": "698",
+        "company": "Univ. of Central Florida"
+    },
+    {
+        "booth": "1394",
+        "company": "Univ. of Colorado Boulder"
+    },
+    {
+        "booth": "1388",
+        "company": "Univ. of Illinois"
+    },
+    {
+        "booth": "894",
+        "company": "Univ. of Iowa, College of Engr"
+    },
+    {
+        "booth": "1189",
+        "company": "Univ. of Maryland - Engr."
+    },
+    {
+        "booth": "1387",
+        "company": "Univ. of Maryland, Baltimore Co."
+    },
+    {
+        "booth": "1383",
+        "company": "Univ. of Michigan College of Engr"
+    },
+    {
+        "booth": "685",
+        "company": "Univ. of Minnesota, Dept. of Computer Science"
+    },
+    {
+        "booth": "899",
+        "company": "Univ. of Nebraska - Lincoln"
+    },
+    {
+        "booth": "693",
+        "company": "Univ. of New Mexico"
+    },
+    {
+        "booth": "886",
+        "company": "Univ. of Pittsburgh - Swanson School of Engr"
+    },
+    {
+        "booth": "694",
+        "company": "Univ. of San Francisco"
+    },
+    {
+        "booth": "1283",
+        "company": "Univ. of Southern Calif. - USC Viterbi"
+    },
+    {
+        "booth": "1195",
+        "company": "Univ. of Texas at Arlington"
+    },
+    {
+        "booth": "1391",
+        "company": "Univ. of Texas at Dallas"
+    },
+    {
+        "booth": "1390",
+        "company": "Univ. of Texas Rio Grande Valley, The"
+    },
+    {
+        "booth": "1382",
+        "company": "Univ. of Virginia"
+    },
+    {
+        "booth": "1299",
+        "company": "Univ. of Washington Allen School of Computer"
+    },
+    {
+        "booth": "689",
+        "company": "Univ. of Washington College of Engr."
+    },
+    {
+        "booth": "884",
+        "company": "Univ. of Washington, Molecular Engr"
+    },
+    {
+        "booth": "1397",
+        "company": "University of Michigan"
+    },
+    {
+        "booth": "1298",
+        "company": "Unv. of Miami, College of Engr."
+    },
+    {
+        "booth": "1307",
+        "company": "UPS"
+    },
+    {
+        "booth": "578",
+        "company": "US Extremely Large Telescope Program"
+    },
+    {
+        "booth": "273",
+        "company": "USAA"
+    },
+    {
+        "booth": "1491",
+        "company": "USG"
+    },
+    {
+        "booth": "1193",
+        "company": "Utah State University"
+    },
+    {
+        "booth": "792",
+        "company": "Vanderbilt Univ. School of Engr."
+    },
+    {
+        "booth": "1315",
+        "company": "Veolia Water Technologies and Solutions"
+    },
+    {
+        "booth": "1547",
+        "company": "Verizon"
+    },
+    {
+        "booth": "794",
+        "company": "Villanova University"
+    },
+    {
+        "booth": "895",
+        "company": "Virginia Tech - College of Engr."
+    },
+    {
+        "booth": "1556",
+        "company": "Visa, Inc."
+    },
+    {
+        "booth": "1453",
+        "company": "VSP Vision"
+    },
+    {
+        "booth": "1221",
+        "company": "Wabtec"
+    },
+    {
+        "booth": "994",
+        "company": "Walmart"
+    },
+    {
+        "booth": "1483",
+        "company": "Walt Disney Imagineering"
+    },
+    {
+        "booth": "287",
+        "company": "Waymo"
+    },
+    {
+        "booth": "801",
+        "company": "Wells Fargo"
+    },
+    {
+        "booth": "1377",
+        "company": "WEX"
+    },
+    {
+        "booth": "383",
+        "company": "Whiting-Turner"
+    },
+    {
+        "booth": "823",
+        "company": "Woodward Inc"
+    },
+    {
+        "booth": "887",
+        "company": "Worcester Polytechnic Institute"
+    },
+    {
+        "booth": "1478",
+        "company": "World Wide Technology"
+    },
+    {
+        "booth": "1252",
+        "company": "WSP USA, Inc."
+    },
+    {
+        "booth": "1294",
+        "company": "Yale Engineering"
+    },
+    {
+        "booth": "1583",
+        "company": "Yello"
+    },
+    {
+        "booth": "1476",
+        "company": "Zoox"
+    },
+    {
+        "booth": "1477",
+        "company": "ZS Associates, Inc."
+    }
+]
