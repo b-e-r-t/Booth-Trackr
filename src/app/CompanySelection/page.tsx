@@ -1,35 +1,22 @@
 "use client";
-import Link from "next/link";
-import Select, { components, MultiValue, MultiValueGenericProps, OnChangeValue } from "react-select";
+import Select from "react-select";
 import { useSearchParams } from "next/navigation";
 import React, { useState } from "react";
-
-// const MultiValueLabel = (props: MultiValueGenericProps) => {
-//   return <components.MultiValueLabel {...props} />;
-// };
-
-const AnotherPage = ({ searchParams }: { searchParams: string }) => {
-  console.log(searchParams.search); // Logs "search"
-};
+import Link from "next/link";
 
 export default function EventSelection() {
   const companies = [
-    { value: 1, label: "Apple" },
-    { value: 2, label: "Bank of America" },
-    { value: 3, label: "Cisco" },
-    { value: 4, label: "Disney" },
-    { value: 5, label: "Enterprise" },
+    { value: "Apple", label: "Apple" },
+    { value: "Bank of America", label: "Bank of America" },
+    { value: "Cisco", label: "Cisco" },
+    { value: "Disney", label: "Disney" },
+    { value: "Enterprise", label: "Enterprise" },
   ];
   const [companyList, setCompanyList] = useState([]);
   const handleChange = (selectedOption) => { 
     console.log(selectedOption);
     setCompanyList(selectedOption);
   };
-
-  const submit = () => {
-    console.log("Company listfdasfsdafsdafas");
-    console.log("Company list: " + companyList);
-  }
 
   return (
     <div className="hero bg-content-400 min-h-screen">
@@ -44,15 +31,9 @@ export default function EventSelection() {
             value={companyList}
             onChange={handleChange}
             isMulti={true}
-            // components={{ MultiValueLabel }}
-            // styles={{
-            //   multiValue: (base) => ({
-            //     ...base,
-            //   }),
-            // }}
           />
         </div>
-        <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white" onSubmit={submit}>
+        <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">
           <Link
             href={{
               pathname: "/DetailSelection",
@@ -63,7 +44,10 @@ export default function EventSelection() {
           >
             Add Companies
           </Link>
-        </button>
+        </button> 
+        <div>Companies: {companyList.map(company => 
+          <p key={company.value}>{company.label}</p>
+        )}</div>
       </div>
     </div>
   );
