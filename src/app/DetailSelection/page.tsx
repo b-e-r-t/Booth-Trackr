@@ -20,9 +20,9 @@ export default function DetailSelection({}) {
   function handleClick () {
     setChildValue(!childValue);
   };
-  const handleChange = useCallback(() => {
-    setChildValue(!childValue);
-  }, [childValue]);
+  // const handleChange = useCallback(() => {
+  //   setChildValue(!childValue);
+  // }, [childValue]);
  
  
   return (
