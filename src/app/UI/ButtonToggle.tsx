@@ -14,7 +14,7 @@ export default function ButtonToggle({name}: { name: string }) {
       }}
       className="btn btn-active btn-primary"
     >
-      { name }
+      {name}
     </button>
   );
 }
