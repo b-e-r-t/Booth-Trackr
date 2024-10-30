@@ -1,21 +1,36 @@
 "use client";
 import Select from "react-select";
 import { useSearchParams } from "next/navigation";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 
-export default function EventSelection() {
-  const companies = [
-    { value: "Apple", label: "Apple" },
-    { value: "Bank of America", label: "Bank of America" },
-    { value: "Cisco", label: "Cisco" },
-    { value: "Disney", label: "Disney" },
-    { value: "Enterprise", label: "Enterprise" },
-  ];
-  const [companyList, setCompanyList] = useState([]);
-  const handleChange = (selectedOption) => { 
+export default function CompanySelection() {
+  const [selectedOption, setSelectedOption] = useState();
+  const [options, setOptions] = useState([]);
+
+  // Fetch company list from json file using Fetch API and map it to options variable
+  useEffect(() => {
+    const getOptions = async () => {
+      try {
+        const response = await fetch('./output.json');
+        const options = await response.json();
+        console.log(options);
+        setOptions(
+          options.map(({ booth, company }) => ({
+            label: company,
+            value: booth,
+          }))
+        );
+      } catch (error) {
+        // ignore
+      }
+    };
+    getOptions();
+  }, []);
+
+  const handleChange = (selectedOption) => {
     console.log(selectedOption);
-    setCompanyList(selectedOption);
+    setSelectedOption(selectedOption);
   };
 
   return (
@@ -27,8 +42,7 @@ export default function EventSelection() {
         <div className="px-2">
           <Select
             closeMenuOnSelect={false}
-            options={companies}
-            value={companyList}
+            options={options}
             onChange={handleChange}
             isMulti={true}
           />
@@ -38,16 +52,13 @@ export default function EventSelection() {
             href={{
               pathname: "/DetailSelection",
               query: {
-                search: companyList,
+                search: selectedOption,
               },
             }}
           >
             Add Companies
           </Link>
-        </button> 
-        <div>Companies: {companyList.map(company => 
-          <p key={company.value}>{company.label}</p>
-        )}</div>
+        </button>
       </div>
     </div>
   );
