@@ -7,7 +7,8 @@ const AnotherPage = ({ searchParams }: { searchParams: string }) => {
 
 export default function Home() {
   const searchParams = useSearchParams();
-  console.log(searchParams.get("search"));
-  const AAAA = searchParams.get('search');
-  return <p>{AAAA}</p>;
+
+  //console.log(searchParams.get("search"));
+  const list = searchParams.get('list');
+  return <p>{searchParams.toString()}</p>;
 }

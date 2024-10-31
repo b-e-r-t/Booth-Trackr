@@ -16,40 +16,44 @@ export default function DetailSelection({}) {
   const AAAA = searchParams.get('search');
 
   const [childValue, setChildValue] = useState(false);
-
+  const names = ['i forgot', 'Recruiter Name', 'Currently Hiring', 'Booth Number'
+    , 'Website URL', 'Recruiter Contact Info', 'Date Visited', 'Application Deadline',
+    'Employment Location', 'Application Status', 'Role', 'Custom Field'];
   function handleClick () {
     setChildValue(!childValue);
   };
   // const handleChange = useCallback(() => {
   //   setChildValue(!childValue);
   // }, [childValue]);
- 
+  function fieldClick(){
+    console.log('adddddy')
+ };
  
   return (
     <div className="hero bg-content-400 min-h-screen">
       <div className="flex justify-center items-center flex-col gap-4">
         <h1>What would you like to track?</h1>
         <div className="flex justify-center items-center flex-row gap-4">
-          <ButtonToggle name={'i forgot'} value= {childValue}   />
-          <ButtonToggle name={"Recruiter Name"} value= {childValue}/>
+          <ButtonToggle name={names[0]} value= {childValue}   />
+          <ButtonToggle name={names[1]} value= {childValue}/>
         </div>
         <div className="flex justify-center items-center flex-row gap-4">
-          <ButtonToggle name={"Currently Hiring"} value= {childValue} />
-          <ButtonToggle name={"Booth Number"} value= {childValue} />
+          <ButtonToggle name={names[2]} value= {childValue} />
+          <ButtonToggle name={names[3]} value= {childValue} />
         </div>
         <div className="flex justify-center items-center flex-row gap-4">
-          <ButtonToggle name={"Website URL"} value= {childValue} />
-          <ButtonToggle name={"Recruiter Contact Info"} value= {childValue} />
-          <ButtonToggle name={"Date Visited"} value= {childValue} />
+          <ButtonToggle name={names[4]} value= {childValue} />
+          <ButtonToggle name={names[5]} value= {childValue} />
+          <ButtonToggle name={names[6]} value= {childValue} />
         </div>
         <div className="flex justify-center items-center flex-row gap-4">
-          <ButtonToggle name={"Application Deadline"} value= {childValue} />
-          <ButtonToggle name={"Employment Location"} value= {childValue} />
+          <ButtonToggle name={names[7]} value= {childValue} />
+          <ButtonToggle name={names[8]} value= {childValue} />
         </div>
         <div className="flex justify-center items-center flex-row gap-4">
-          <ButtonToggle name={"Application Status"} value= {childValue} />
-          <ButtonToggle name={"Custom Field"} value= {childValue}/>
-          <ButtonToggle name={"Role"} value= {childValue}/> 
+          <ButtonToggle name={names[9]} value= {childValue} />
+          <ButtonToggle name={names[10]} value= {childValue}/>
+          <ButtonToggle name={names[11]} value= {childValue}/> 
         </div>
         <button
       onClick={handleClick}
@@ -61,14 +65,14 @@ export default function DetailSelection({}) {
     >
       {'Select All'}
     </button>
-    
-        {/* Doesn't work, please implement! */}
-        <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white">
+        <button className="btn btn-primary bg-lime-600 text-white border-none hover:text-lime-600 hover:bg-white"
+          onClick={fieldClick}>
           <Link
             href={{
               pathname: "/Home",
               query: {
                 search: AAAA,
+                list: names
               }
             }}
           >
@@ -81,8 +85,8 @@ export default function DetailSelection({}) {
 }
 
 function ButtonToggle({name, value}: { name: string, value:boolean }) {
-  //console.log(swich);
   const [active, setActive] = useState(false);
+
   useEffect (()=>{
     if(value != active)
       handleClick();
@@ -92,7 +96,6 @@ function ButtonToggle({name, value}: { name: string, value:boolean }) {
   const handleClick = () => {
     setActive(!active);
   };
-
 
   return (
     <button
