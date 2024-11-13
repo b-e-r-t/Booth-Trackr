@@ -1,4 +1,5 @@
 "use client";
+// @ts-ignore
 import { useSearchParams } from "next/navigation";
 import {Suspense} from "react"
 // const AnotherPage = ({ searchParams }: { searchParams: string }) => {

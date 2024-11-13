@@ -1,5 +1,6 @@
 "use client";
-import { useSearchParams} from "next/navigation";
+//@ts-ignore
+import { useSearchParams} from 'next/navigation';
 import Image from "next/image";
 import { BsChevronRight } from "react-icons/bs";
 import Link from "next/link";
